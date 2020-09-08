@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import ReactGA from "react-ga";
 import $ from "jquery";
 import "./App.css";
 import Header from "./Components/Header";
@@ -34,8 +35,8 @@ class App extends Component {
 	}
 
 	componentDidMount() {
-		// ReactGA.initialize("UA-000000-01");
-		// ReactGA.pageview(window.location.pathname + window.location.search);
+		ReactGA.initialize("UA-170905682-2");
+		ReactGA.pageview(window.location.pathname + window.location.search);
 		this.getResumeData();
 	}
 
