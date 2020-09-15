@@ -48,7 +48,7 @@
 		"work": [
 			{
 				"company": "Liner",
-				"title": "Team Member && Software Development Intern",
+				"title": "Software Development Intern",
 				"years": "June 2017 - August 2017",
 				"description": "iOS Development"
 			},
@@ -70,7 +70,7 @@
 			},
 			{
 				"name": "VueJS",
-				"level": "60%"
+				"level": "40%"
 			},
 			{
 				"name": "VanillaJS",
@@ -111,6 +111,12 @@
 				"category": "Breathe in and out animation, made with CSS and pure JS.",
 				"image": "relaxer.png",
 				"url": "https://huisang-growth.github.io/vanillaJS_breathe/"
+			},
+			{
+				"title": "Amazon clone",
+				"category": "Full-functioning Amazon clone with Stripe payment and User function.",
+				"image": "amazon-clone.png",
+				"url": "https://clone-690bc.web.app/"
 			}
 		]
 	},
