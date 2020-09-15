@@ -2,7 +2,7 @@
 	"main": {
 		"name": "Brian Yun",
 		"occupation": "ReactJS && iOS Developer",
-		"description": "Full Stack Junior React Developer, 22yo",
+		"description": "Full Stack React Developer, 22yo",
 		"image": "hsyun.JPG",
 		"bio": "I'm Brian Yun from South Korea. Currently studying @Yonsei University College of Medicine. \n I'm a full stack ReactJS developer && iOS developer.",
 		"contactmessage": "Get in touch with me to receive further details, get coffee or anything else.",
@@ -13,7 +13,7 @@
 			"state": ", South Korea"
 		},
 		"website": "http://huisang-growth.github.io/",
-		"resumedownload": "http://huisang-growth.github.io/",
+		"resumedownload": "https://github.com/huisang-growth",
 		"social": [
 			{
 				"name": "facebook",
