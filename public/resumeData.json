@@ -89,6 +89,18 @@
 	"portfolio": {
 		"projects": [
 			{
+				"title": "Amazon clone",
+				"category": "Full-functioning Amazon clone with Stripe payment and User function.",
+				"image": "amazon-clone.png",
+				"url": "https://clone-690bc.web.app/"
+			},
+			{
+				"title": "Love-Doong-Doong MBTI test",
+				"category": "Pets MBTI build with NextJS & Firebase. In request of a famous cartoon company, worked for free.",
+				"image": "mbti-love.png",
+				"url": "https://mbti-bf18c.web.app/"
+			},
+			{
 				"title": "School Cafeteria Menu",
 				"category": "Full stack iOS development. Sold it to my university",
 				"image": "ios-menu.png",
@@ -101,22 +113,16 @@
 				"url": "http://doctor-mbti.web.app/"
 			},
 			{
-				"title": "Love-Doong-Doong MBTI test",
-				"category": "Pets MBTI build with NextJS & Firebase. In request of a famous cartoon company, worked for free.",
-				"image": "mbti-love.png",
-				"url": "https://mbti-bf18c.web.app/"
-			},
-			{
 				"title": "Relaxer",
 				"category": "Breathe in and out animation, made with CSS and pure JS.",
 				"image": "relaxer.png",
 				"url": "https://huisang-growth.github.io/vanillaJS_breathe/"
 			},
 			{
-				"title": "Amazon clone",
-				"category": "Full-functioning Amazon clone with Stripe payment and User function.",
-				"image": "amazon-clone.png",
-				"url": "https://clone-690bc.web.app/"
+				"title": "MERN boilerplate",
+				"category": "Full-functioning MERN stack, with login/signup",
+				"image": "boilerplate.png",
+				"url": "https://github.com/huisang-growth/boilerplate-mern"
 			}
 		]
 	},
