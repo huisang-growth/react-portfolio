@@ -90,13 +90,13 @@
 		"projects": [
 			{
 				"title": "Amazon clone",
-				"category": "Full-functioning Amazon clone with Stripe payment and User function.",
+				"category": "Full-functioning React Amazon clone with Stripe payment and User function.",
 				"image": "amazon-clone.png",
 				"url": "https://clone-690bc.web.app/"
 			},
 			{
 				"title": "Love-Doong-Doong MBTI test",
-				"category": "Pets MBTI build with NextJS & Firebase. In request of a famous cartoon company, worked for free.",
+				"category": "Pets MBTI build with Next.JS & Firebase. In request of a famous cartoon company, worked for free.",
 				"image": "mbti-love.png",
 				"url": "https://mbti-bf18c.web.app/"
 			},
@@ -105,6 +105,12 @@
 				"category": "Full stack iOS development. Sold it to my university",
 				"image": "ios-menu.png",
 				"url": "https://github.com/huisang-growth/chejung_ios"
+			},
+			{
+				"title": "Tinder clone",
+				"category": "MERN stack build, with swiping animations. Heroku backend, Firebase frontend deployment.",
+				"image": "tinder-screenshot.png",
+				"url": "https://tinder-clone-9ee42.web.app/"
 			},
 			{
 				"title": "COVID MBTI Test",
