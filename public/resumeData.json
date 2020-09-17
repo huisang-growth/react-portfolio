@@ -113,6 +113,12 @@
 				"url": "https://tinder-clone-9ee42.web.app/"
 			},
 			{
+				"title": "Netflix landing page clone",
+				"category": "Just plain vanilla javascript",
+				"image": "netflix-screenshot.png",
+				"url": "https://netflix-landing-clone.web.app/"
+			},
+			{
 				"title": "COVID MBTI Test",
 				"category": "COVID MBTI build with NextJS & Firebase",
 				"image": "mbti-corona.png",
